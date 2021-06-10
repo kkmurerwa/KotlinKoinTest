@@ -1,0 +1,2 @@
+rootProject.name = "KotlinKoin"
+include ':app'
